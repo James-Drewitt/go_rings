@@ -1,2 +1,2 @@
 # go_rings
-###### scripts for running R.I.N.G.S. http://rings-code.sourceforge.net/index.php
+###### scripts for running the R.I.N.G.S. code for analysing MD simulation trajectories http://rings-code.sourceforge.net/index.php
